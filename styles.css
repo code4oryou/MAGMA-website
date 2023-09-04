@@ -459,7 +459,7 @@ html,body{
 
 #page13{
     position: relative;
-    height: 50vh;
+    height: 65vh;
     width: 100vw;
     background-color: #000;
     color: #fff;
@@ -479,7 +479,8 @@ html,body{
     background-color: #0a3cce;
     color: #fff;
     border-radius: 50px;
-    margin-top: 2vw;
+    margin-top: 5vh;
+    
 }
 
 #page14{
